@@ -1,0 +1,278 @@
+1,Abilene
+2,Akron
+3,Albuquerque
+4,Alexandria
+5,Allentown
+6,Amarillo
+7,Anaheim
+8,Anchorage
+9,Ann Arbor
+10,Antioch
+11,Arlington
+12,Arlington
+13,Arvada
+14,Athens
+15,Atlanta
+16,Augusta
+17,Aurora
+18,Aurora
+19,Austin
+20,Bakersfield
+21,Baltimore
+22,Baton Rouge
+23,Beaumont
+24,Bellevue
+25,Berkeley
+26,Billings
+27,Birmingham
+28,Boise
+29,Boston
+30,Boulder
+31,Bridgeport
+32,Brownsville
+33,Buffalo
+34,Burbank
+35,Cambridge
+36,Cape Coral
+37,Carrollton
+38,Cary
+39,Cedar Rapids
+40,Centennial
+41,Chandler
+42,Charleston
+43,Charlotte
+44,Chattanooga
+45,Chesapeake
+46,Chicago
+47,Chula Vista
+48,Cincinnati
+49,Clarksville
+50,Clearwater
+51,Cleveland
+52,Colorado Springs
+53,Columbia
+54,Columbia
+55,Columbus
+56,Columbus
+57,Concord
+58,Coral Springs
+59,Corona
+60,Corpus Christi
+61,Costa Mesa
+62,Dallas
+63,Daly City
+64,Davenport
+65,Dayton
+66,Denton
+67,Denver
+68,Des Moines
+69,Detroit
+70,Downey
+71,Durham
+72,El Monte
+73,El Paso
+74,Elgin
+75,Elizabeth
+76,Elk Grove
+77,Erie
+78,Escondido
+79,Eugene
+80,Evansville
+81,Fairfield
+82,Fayetteville
+83,Flint
+84,Fontana
+85,Fort Collins
+86,Fort Lauderdale
+87,Fort Wayne
+88,Fort Worth
+89,Fremont
+90,Fresno
+91,Frisco
+92,Fullerton
+93,Gainesville
+94,Garden Grove
+95,Garland
+96,Gilbert
+97,Glendale
+98,Glendale
+99,Grand Prairie
+100,Grand Rapids
+101,Green Bay
+102,Greensboro
+103,Gresham
+104,Hampton
+105,Hartford
+106,Hayward
+107,Henderson
+108,Hialeah
+109,High Point
+110,Hollywood
+111,Honolulu
+112,Houston
+113,Huntington Beach
+114,Huntsville
+115,Independence
+116,Indianapolis
+117,Inglewood
+118,Irvine
+119,Irving
+120,Jackson
+121,Jacksonville
+122,Jersey City
+123,Joliet
+124,Kansas
+125,Kansas City
+126,Kansas City
+127,Killeen
+128,Knoxville
+129,Lafayette
+130,Lakewood
+131,Lancaster
+132,Lansing
+133,Laredo
+134,Las Vegas
+135,Lewisville
+136,Lexington
+137,Lincoln
+138,Little Rock
+139,Long Beach
+140,Los Angeles
+141,Louisville
+142,Lowell
+143,Lubbock
+144,Madison
+145,Manchester
+146,McAllen
+147,McKinney
+148,Memphis
+149,Mesa
+150,Mesquite
+151,Miami
+152,Miami Gardens
+153,Midland
+154,Milwaukee
+155,Minneapolis
+156,Miramar
+157,Mobile
+158,Modesto
+159,Montgomery
+160,Moreno Valley
+161,Murfreesboro
+162,Naperville
+163,Nashville
+164,New Haven
+165,New Orleans
+166,New York
+167,Newark
+168,Newport News
+169,Norfolk
+170,Norman
+171,North Las Vegas
+172,Norwalk
+173,Oakland
+174,Oceanside
+175,Odessa
+176,Oklahoma City
+177,Olathe
+178,Omaha
+179,Ontario
+180,Orange
+181,Orlando
+182,Overland Park
+183,Oxnard
+184,Palm Bay
+185,Palmdale
+186,Pasadena
+187,Pasadena
+188,Paterson
+189,Pembroke Pines
+190,Peoria
+191,Peoria
+192,Philadelphia
+193,Phoenix
+194,Pittsburgh
+195,Plano
+196,Pomona
+197,Pompano Beach
+198,Port St. Lucie
+199,Portland
+200,Providence
+201,Provo
+202,Pueblo
+203,Raleigh
+204,Rancho Cucamonga
+205,Reno
+206,Richardson
+207,Richmond
+208,Richmond
+209,Riverside
+210,Rochester
+211,Rochester
+212,Rockford
+213,Roseville
+214,Round Rock
+215,Sacramento
+216,Salem
+217,Salinas
+218,Salt Lake City
+219,San Antonio
+220,San Bernardino
+221,San Buenaventura
+222,San Diego
+223,San Francisco
+224,San Jose
+225,Santa Ana
+226,Santa Clara
+227,Santa Clarita
+228,Santa Rosa
+229,Savannah
+230,Scottsdale
+231,Seattle
+232,Shreveport
+233,Simi Valley
+234,Sioux Falls
+235,South Bend
+236,Spokane
+237,Springfield
+238,Springfield
+239,Springfield
+240,St. Louis
+241,St. Paul
+242,St. Petersburg
+243,Stamford
+244,Sterling Heights
+245,Stockton
+246,Sunnyvale
+247,Syracuse
+248,Tacoma
+249,Tallahassee
+250,Tampa
+251,Tempe
+252,Thornton
+253,Thousand Oaks
+254,Toledo
+255,Topeka
+256,Torrance
+257,Tucson
+258,Tulsa
+259,Vallejo
+260,Vancouver
+261,Victorville
+262,Virginia Beach
+263,Visalia
+264,W
+265,Waco
+266,Warren
+267,Washington
+268,Waterbury
+269,West Covina
+270,West Jordan
+271,West Valley City
+272,Westminster
+273,Wichita
+274,Wichita Falls
+275,Wilmington
+276,Winston-Salem
+277,Worcester
+278,Yonkers
